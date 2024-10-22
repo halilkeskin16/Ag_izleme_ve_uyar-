@@ -1,0 +1,110 @@
+Paket Yakalandý: 2024-10-22 11:23:09
+Kaynak MAC: 10:6f:d9:a7:fb:69 (Üretici: CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.)
+Kaynak IP: 172.20.10.6
+Hedef IP: 72.247.162.61
+TTL: 128
+Kaynak Port: 9803
+Hedef Port: 443
+Sýra Numarasý: 3640121219
+Tahmini Cihaz Türü: Web servisi çalýþtýran bir cihaz
+UYARI: Zararlý IP tespit edildi: 172.20.10.6
+--------------------------------------------------
+Paket Yakalandý: 2024-10-22 11:23:11
+Kaynak MAC: 10:6f:d9:a7:fb:69 (Üretici: CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.)
+Kaynak IP: 172.20.10.6
+Hedef IP: 172.20.10.1
+TTL: 128
+Kaynak Port: 50897
+Hedef Port: 53
+Tahmini Cihaz Türü: Belirlenemeyen cihaz türü
+UYARI: Zararlý IP tespit edildi: 172.20.10.6
+--------------------------------------------------
+Paket Yakalandý: 2024-10-22 11:23:12
+Kaynak MAC: 10:6f:d9:a7:fb:69 (Üretici: CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.)
+Kaynak IP: 172.20.10.6
+Hedef IP: 92.38.180.153
+TTL: 128
+Kaynak Port: 9871
+Hedef Port: 443
+Sýra Numarasý: 1269262688
+Ham Veri: b'\x00'
+Tahmini Cihaz Türü: Web servisi çalýþtýran bir cihaz
+UYARI: Zararlý IP tespit edildi: 172.20.10.6
+--------------------------------------------------
+Paket Yakalandý: 2024-10-22 11:23:14
+Kaynak MAC: f6:d4:88:73:b6:64 (Üretici: Not Found)
+Kaynak IP: 172.20.10.1
+Hedef IP: 172.20.10.6
+TTL: 64
+Kaynak Port: 53
+Hedef Port: 50897
+Tahmini Cihaz Türü: Belirlenemeyen cihaz türü
+UYARI: Zararlý IP tespit edildi: 172.20.10.6
+--------------------------------------------------
+Paket Yakalandý: 2024-10-22 11:23:16
+Kaynak MAC: 10:6f:d9:a7:fb:69 (Üretici: CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.)
+Kaynak IP: 172.20.10.6
+Hedef IP: 162.159.140.98
+TTL: 128
+Kaynak Port: 9876
+Hedef Port: 443
+Sýra Numarasý: 1643386719
+Tahmini Cihaz Türü: Web servisi çalýþtýran bir cihaz
+UYARI: Zararlý IP tespit edildi: 172.20.10.6
+--------------------------------------------------
+Paket Yakalandý: 2024-10-22 11:23:17
+Kaynak MAC: f6:d4:88:73:b6:64 (Üretici: Not Found)
+Kaynak IP: 92.38.180.153
+Hedef IP: 172.20.10.6
+TTL: 127
+Kaynak Port: 443
+Hedef Port: 9871
+Sýra Numarasý: 2933111745
+Tahmini Cihaz Türü: Web servisi çalýþtýran bir cihaz
+UYARI: Zararlý IP tespit edildi: 172.20.10.6
+--------------------------------------------------
+Paket Yakalandý: 2024-10-22 11:23:20
+Kaynak MAC: f6:d4:88:73:b6:64 (Üretici: Not Found)
+Kaynak IP: 162.159.140.98
+Hedef IP: 172.20.10.6
+TTL: 127
+Kaynak Port: 443
+Hedef Port: 9876
+Sýra Numarasý: 1824930247
+Tahmini Cihaz Türü: Web servisi çalýþtýran bir cihaz
+UYARI: Zararlý IP tespit edildi: 172.20.10.6
+--------------------------------------------------
+Paket Yakalandý: 2024-10-22 11:23:21
+Kaynak MAC: 10:6f:d9:a7:fb:69 (Üretici: CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.)
+Kaynak IP: 172.20.10.6
+Hedef IP: 162.159.140.98
+TTL: 128
+Kaynak Port: 9876
+Hedef Port: 443
+Sýra Numarasý: 1643386720
+Tahmini Cihaz Türü: Web servisi çalýþtýran bir cihaz
+UYARI: Zararlý IP tespit edildi: 172.20.10.6
+--------------------------------------------------
+Paket Yakalandý: 2024-10-22 11:23:22
+Kaynak MAC: 10:6f:d9:a7:fb:69 (Üretici: CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.)
+Kaynak IP: 172.20.10.6
+Hedef IP: 162.159.140.98
+TTL: 128
+Kaynak Port: 9876
+Hedef Port: 443
+Sýra Numarasý: 1643386720
+Ham Veri: b"\x16\x03\x01\x02\x00\x01\x00\x01\xfc\x03\x03\xe8\xcf0%\xba\xf2\x1fg\xcd\xad\x168n\xb4\x19\x84\xf7\xfev8W\xfe^\t\xba\xf6\xbdk8\x069a \xa0\x04F\xfd\x18\xb7jR7\xe6`\xb3I\xf0\xff\xfb5\\\xbd\x8e\xe0\x96\xd3*/\x9f\xa4\xc9\x1d\xe5\x19\xd5\x00$\x13\x02\x13\x03\x13\x01\xc0,\xc00\xc0+\xc0/\xcc\xa9\xcc\xa8\xc0$\xc0(\xc0#\xc0'\x00\x9f\x00\x9e\x00k\x00g\x00\xff\x01\x00\x01\x8f\x00\x00\x00\x17\x00\x15\x00\x00\x12api.macvendors.com\x00\x0b\x00\x04\x03\x00\x01\x02\x00\n\x00\x16\x00\x14\x00\x1d\x00\x17\x00\x1e\x00\x19\x00\x18\x01\x00\x01\x01\x01\x02\x01\x03\x01\x04\x00\x10\x00\x0b\x00\t\x08http/1.1\x00\x16\x00\x00\x00\x17\x00\x00\x001\x00\x00\x00\r\x00*\x00(\x04\x03\x05\x03\x06\x03\x08\x07\x08\x08\x08\t\x08\n\x08\x0b\x08\x04\x08\x05\x08\x06\x04\x01\x05\x01\x06\x01\x03\x03\x03\x01\x03\x02\x04\x02\x05\x02\x06\x02\x00+\x00\x05\x04\x03\x04\x03\x03\x00-\x00\x02\x01\x01\x003\x00&\x00$\x00\x1d\x00 \xf5\x8a:\xc9F\xfdD\xc1EV\x87~;\xa0m\xf97\x9d\n\xcev\xde\x11m\xa0\xf7\xc4JT\xda\xab`\x00\x15\x00\xcc\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"
+Tahmini Cihaz Türü: Web servisi çalýþtýran bir cihaz
+UYARI: Zararlý IP tespit edildi: 172.20.10.6
+--------------------------------------------------
+Paket Yakalandý: 2024-10-22 11:23:24
+Kaynak MAC: f6:d4:88:73:b6:64 (Üretici: Not Found)
+Kaynak IP: 162.159.140.98
+Hedef IP: 172.20.10.6
+TTL: 127
+Kaynak Port: 443
+Hedef Port: 9876
+Sýra Numarasý: 1824930248
+Tahmini Cihaz Türü: Web servisi çalýþtýran bir cihaz
+UYARI: Zararlý IP tespit edildi: 172.20.10.6
+--------------------------------------------------
